@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Jakub 👋
+---
+I'm a 20 year old computer science student. I specialise in frontend development and design but I have a lot of passion for all CS related topics. I also run a YouTube channel under a nickname “Codeolences” where I make videos about topics more or less connected with technology and programming.
 
 <!--
 **GawronDev/GawronDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
