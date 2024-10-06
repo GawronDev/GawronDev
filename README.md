@@ -1,6 +1,6 @@
 # Hi, I'm Jakub 👋
 
-I am a 20-year-old computer science student specializing in frontend development and design, though I have a deep passion for all CS-related topics. Over the years, I have worked on several commercial projects, gaining valuable experience in the process.
+I am a 21-year-old computer science student specializing in frontend development and design, though I have a deep passion for all CS-related topics. Over the years, I have worked on several commercial projects, gaining valuable experience in the process.
 
 ![me_1](https://github.com/GawronDev/GawronDev/assets/64081305/e3869cc8-c591-420a-ad2f-0fe633d586ec)
 
