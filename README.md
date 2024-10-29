@@ -1,25 +1,24 @@
 # Hi, I'm Jakub 👋
 
-I am a 21-year-old computer science student specializing in frontend development and design, though I have a deep passion for all CS-related topics. Over the years, I have worked on several commercial projects, gaining valuable experience in the process.
+<table border="0">
+    <tr>
+    <td><img width="2600" src="https://github.com/user-attachments/assets/2f943f26-a3aa-4bbb-9bbf-6dcecfbb16fb" /></td>
+    <td>
+        <p>I am a 21-year-old computer science student specializing in web development, though I have a deep passion for all CS-related topics. Over the years, I have worked on several         commercial projects, gaining valuable experience in the process. Outside of the web, I have experience in app development, as well as robotics, JAVA, Rust, computer graphics,           3D modelling with Blender and server setup, network engineering. </p>
+    </td>
+    </tr>
+</table>
 
-![me_1](https://github.com/GawronDev/GawronDev/assets/64081305/e3869cc8-c591-420a-ad2f-0fe633d586ec)
+## 👨🏼‍💻 Some of the websites I have worked on:
+![image](https://github.com/user-attachments/assets/f3d5905a-e95f-40a1-9883-b8f3782fc5ff)
+_Featured:_
+<ul>
+    <li><a href="https://www.jakub-gawronski.com">👨🏼‍💻 My personal portfolio website</a></li>
+    <li><a href="https://www.notariusz-gorzow.pl">👩‍⚖️ Notariusz Katarzyna Kłudka-Giejbo</a></li>
+    <li><a href="https://www.logopedadrezdenko.pl">👂🏻 Logopeda Drezdenko</a></li>
+    <li>🦷 MGDent</li>
+</ul>
 
-## 👨🏼‍💻 Some of the things I worked on:
-
-<div style="display: flex; flex-direction: column; width: 100%; margin-bottom: 20px;">
-    <span>👩‍⚖️ Notariusz Katarzyna Kłudka-Giejbo</span>
-    <img style="width: 100%;" src="https://github.com/user-attachments/assets/3ca7b80e-1939-42cb-a777-b47afa60ad09">
-</div>
-
-<div style="display: flex; flex-direction: column; width: 100%; margin-bottom: 20px;">
-    <span>🦷 MGDent</span>
-    <img style="width: 100%;" src="https://github.com/GawronDev/GawronDev/assets/64081305/6e903634-65a0-4278-92fd-7e76882957d2">
-</div>
-
-<div style="display: flex; flex-direction: column; width: 100%; margin-bottom: 20px;">
-    <span>👂🏻 Logopeda Drezdenko</span>
-    <img style="width: 100%" src="https://github.com/user-attachments/assets/a9ef24bb-2384-485a-a4cc-1e0d29281385">
-</div>
 
 
 
