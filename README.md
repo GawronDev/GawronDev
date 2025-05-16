@@ -4,7 +4,11 @@
     <tr>
     <td><img width="2600" src="https://github.com/user-attachments/assets/2f943f26-a3aa-4bbb-9bbf-6dcecfbb16fb" /></td>
     <td>
-        <p>I am a 21-year-old computer science student specializing in web development, though I have a deep passion for all CS-related topics. Over the years, I have worked on several         commercial projects, gaining valuable experience in the process. Outside of the web, I have experience in app development, as well as robotics, JAVA, Rust, computer graphics,           3D modelling with Blender and server setup, network engineering. </p>
+        <p>I am currently in the sixth semester of my Bachelor’s degree in Computer Science at TU Dresden. I have experience working on both commercial web projects and personal projects in full-stack development and software engineering, particularly in Java.
+
+Over the past four years, I have contributed to a wide range of projects for commercial clients in the fields of medicine, law, and marketing. My responsibilities included designing user interfaces with tools like Figma, coding responsive websites using HTML, CSS, and JavaScript, and integrating external libraries such as Bootstrap, Tailwind, FullPage.js, and GSAP. I also handled performance optimization and search engine optimization (SEO). I also have experience with the MERN stack—building RESTful APIs with Node.js and Express, creating dynamic single-page applications with React, and working with NoSQL cloud services like Firebase, as well as CMS platforms like WordPress.
+
+In addition to web development, I have hands-on experience with electronics, CAD software and microcontrollers. Earlier this year, I co-founded <b>Assemlab</b>, a startup focused on making computer architecture and electronics more accessible through a hands-on 8-bit computer learning kit.</p>
     </td>
     </tr>
 </table>
